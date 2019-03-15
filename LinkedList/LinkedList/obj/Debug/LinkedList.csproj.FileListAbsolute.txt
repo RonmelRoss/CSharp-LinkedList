@@ -1,0 +1,9 @@
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+E:\Lab\Microsoft\DotNet\Git\LinkedList\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
